@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB13B&height=200&section=header&text=KangHyeok%20Seo&fontSize=70&animation=twinkling)
-
-
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -21,16 +18,6 @@
   <img src="https://img.shields.io/badge/BlockChain-121D33?style=flat-square&logo=Blockchain.com&logoColor=white"/></a>&nbsp  
 </p>
 <br>
-    
-          
-            
-    
-
-          
-    
-    
-  
-  
 <br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
